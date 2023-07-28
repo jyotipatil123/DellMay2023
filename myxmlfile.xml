@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+
+	<Ad>
+		<ImageUrl>~/images/stars.jpg</ImageUrl>
+		<NavigateUrl>http://www.babybouquets.com.au</NavigateUrl>
+		<AlternateText>Order roses and flowers</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>gifts</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>~/images/flowers.jpeg</ImageUrl>
+		<NavigateUrl>http://www.babybouquets.com.au</NavigateUrl>
+		<AlternateText>Order roses and flowers</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>gifts</Keyword>
+	</Ad>
+	
+</Advertisements>
